@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اینڈروئیڈ لوکلائزیشن</string>
+    <string name="hello">ہیلو</string>
+    <string name="how_are_you">آپ کیسے ہو؟</string>
+    <string name="change_language">زبان تبدیل کریں</string>
+</resources>

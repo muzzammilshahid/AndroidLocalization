@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidLocaltization</string>
+    <string name="hello">Hello</string>
+    <string name="how_are_you">How are you?</string>
+    <string name="change_language">change language</string>
+</resources>
